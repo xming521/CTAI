@@ -1,0 +1,12 @@
+{id: "guowei", banner: "/image/c1.png", cate: "果味", detail:
+[{thumb: "/image/c2.png", name: "梨花带雨 3个"},
+{thumb: "/image/c3.png", name: "红枣 500g"},
+{thumb: "/image/c4.png", name: "奇异果 2个"},
+{thumb: "/image/c4.png", name: "奇异果 2个"},
+{thumb: "/image/c3.png", name: "红枣 500g"},
+{thumb: "/image/c2.png", name: "梨花带雨 3个"}],
+{id: "shucai", banner: "/image/c1.png", cate: "蔬菜", detail: Array(6)},
+{id: "chaohuo", banner: "/image/c1.png", cate: "炒货", detail: Array(6)},
+{id: "dianxin", banner: "/image/c1.png", cate: "点心", detail: Array(6)},
+{id: "cucha", banner: "/image/c1.png", cate: "粗茶", detail: Array(6)},
+{id: "danfan", banner: "/image/c1.png", cate: "淡饭", detail: Array(6)}
