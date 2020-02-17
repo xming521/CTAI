@@ -1,0 +1,16 @@
+[*]
+charset=utf-8
+end_of_line=crlf
+trim_trailing_whitespace=true
+insert_final_newline=true
+indent_style=space
+indent_size=4
+
+[{.babelrc,.stylelintrc,jest.config,.eslintrc,.prettierrc,*.json,*.jsb3,*.jsb2,*.bowerrc}]
+indent_style=space
+indent_size=2
+
+[{tsconfig.app.json,tsconfig.e2e.json,tsconfig.json,tsconfig.spec.json}]
+indent_style=space
+indent_size=2
+
