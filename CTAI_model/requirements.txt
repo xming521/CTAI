@@ -1,5 +1,5 @@
 Flask==1.1.1
-Werkzeug==0.15.2
+Werkzeug==0.15.3
 pandas==0.23.4
 numpy==1.15.0
 Pillow==6.1.0
