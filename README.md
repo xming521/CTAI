@@ -4,7 +4,9 @@
 医生只需通过web上传ct图像文件，后台就会使用训练好的模型进行肿瘤区域的分割，然后将勾画好肿瘤区域的图像返回，还有肿瘤区域的一些特征（如面积、周长、强度等），并且提供前几次诊断的特征数据并绘制成图表进行对比来辅助医生诊断。  
 <img width="600" height="100" src="https://github.com/xming521/picture/blob/master/QQ截图20200218193846.png"/>
 
-# 有问题请提issue或者加群<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=27e25dff61966a838fa5f96d4e398f7c96566dad85c2b7f9da942d496f5202d6">精英码农批发</a>
+# 有问题请提issue或者加群<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=27e25dff61966a838fa5f96d4e398f7c96566dad85c2b7f9da942d496f5202d6">精英码农批发</a>   
+# 觉得不错欢迎给star⭐哦
+
 ## 环境
 - Python3.6 : **PyTorch , OpenCV , Flask**
 - Vue , Vue CLI
