@@ -54,17 +54,13 @@ def upload_file():
         image_path = os.path.join('./tmp/ct', file.filename)
         # print(image_path)
         pid, image_info = core.main.c_main(image_path, current_app.model)
-        # return jsonify({'status': 1,
-        #                 'image_url': 'http://127.0.0.1:5003/tmp/image/' + pid,
-        #                 'draw_url': 'http://127.0.0.1:5003/tmp/draw/' + pid,
-        #                 'image_info': image_info
-        #                 })
-
         return jsonify({'status': 1,
-                        'image_url': 'http://58.87.66.50:5003/tmp/image/' + pid,
-                        'draw_url': 'http://58.87.66.50:5003/tmp/draw/' + pid,
-                        'image_info': image_info
-                        })
+                        'image_url': 'http://127.0.0.1:5003/tmp/image/' + pid,
+                        'draw_url': 'http://127.0.0.1:5003/tmp/draw/' + pid,
+                      'image_info': image_info
+                       })
+
+
     return jsonify({'status': 0})
 
 
