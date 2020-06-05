@@ -1,5 +1,8 @@
 # 🏥  CTAI
-基于深度学习的肿瘤辅助诊断系统
+基于深度学习的肿瘤辅助诊断系统 
+
+[![Build Status](https://dev.azure.com/1223398803/test/_apis/build/status/xming521.CTAI?branchName=master)](https://dev.azure.com/1223398803/test/_build/latest?definitionId=1&branchName=master) 
+
 系统以图像分割为核心，利用人工智能完成肿瘤区域的识别勾画并提供肿瘤区域的特征来辅助医生进行诊断。有完整的**模型构建、后端架设和前端访问**功能。  
 医生只需通过web上传ct图像文件，后台就会使用训练好的模型进行肿瘤区域的分割，然后将勾画好肿瘤区域的图像返回，还有肿瘤区域的一些特征（如面积、周长、强度等），并且提供前几次诊断的特征数据并绘制成图表进行对比来辅助医生诊断。  
 <img width="600" height="100" src="https://github.com/xming521/picture/blob/master/QQ截图20200218193846.png"/>
