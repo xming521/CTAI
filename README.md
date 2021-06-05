@@ -10,7 +10,7 @@
 
 ## 觉得不错欢迎给star⭐哦
 
-## ~~在线demo http://ct.xmzj.xyz/ ~~ 服务器到期
+## ~~在线demo http://ct.xmzj.xyz/ 服务器到期~~
 
 
 ## 环境
