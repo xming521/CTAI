@@ -14,7 +14,7 @@
 
 
 ## 环境
-- Python3.6 : **PyTorch , OpenCV , Flask**
+- Python3.6 : **PyTorch , OpenCV , Flask , TensorRT 8.5.1.7**
 - Vue , Vue CLI
 - Node : **axios , ElementUI , ECharts**
 - Chrome（内核版本60以上）
