@@ -1,3 +1,4 @@
    *.js linguist-language=python
    *.vue linguist-language=python
    *.html linguist-language=python
+*.pth filter=lfs diff=lfs merge=lfs -text
